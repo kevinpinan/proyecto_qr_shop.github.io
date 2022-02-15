@@ -1,0 +1,1 @@
+# proyecto_qr_shop.github.io
